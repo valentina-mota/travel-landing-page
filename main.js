@@ -134,7 +134,7 @@ themeButton.addEventListener('click', () => {
 
 /*==================== FORM PREVENT DEFAULT BEHAV ====================*/ 
 
-document.querySelector('.join__form').addEventListener('submit', function(e) {
+document.querySelector('.join__button').addEventListener('submit', function(e) {
   e.preventDefault(); // impedisce il reload e il ? nell’URL
 });
 
