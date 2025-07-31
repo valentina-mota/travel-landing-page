@@ -767,6 +767,15 @@ button {
   transform: translateY(-.25rem);
 }
 
+.my-website-link {
+  font-size: var(--smaller-font-size);
+  color: #63B1AA;
+}
+
+.my-website-link:hover {
+  color: #01615E;
+}
+
 .footer__copy {
   font-size: var(--smaller-font-size);
   color: var(--text-color-light);
