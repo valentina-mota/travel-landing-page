@@ -102,9 +102,6 @@ sr.reveal(`.about__data, .join__image`, {origin: 'right'})
 sr.reveal(`.about__image, .join__data`, {origin: 'left'})
 sr.reveal(`.popular__card`, {interval: 200})
 
-
-
-
 /*==================== DARK LIGHT THEME ====================*/ 
 const themeButton = document.getElementById('theme-button')
 const darkTheme = 'dark-theme'
@@ -134,3 +131,11 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
 })
+
+/*==================== FORM PREVENT DEFAULT BEHAV ====================*/ 
+
+document.querySelector('.join__form').addEventListener('submit', function(e) {
+  e.preventDefault(); // impedisce il reload e il ? nell’URL
+});
+
+
