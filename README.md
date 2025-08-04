@@ -36,7 +36,7 @@ travel-landing-page/
 
 ## 🌐 Live Demo
 
-[🌐 **Atenas Travels**](https://atenastravels.netlify.app/) ↗️
+[🌐 **Atena's Travels**](https://atenastravels.netlify.app/) ↗️
 
 *Right-click → "Open in new tab" or use Ctrl+Click*
 
