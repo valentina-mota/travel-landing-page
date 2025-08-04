@@ -34,10 +34,11 @@ travel-landing-page/
 └── README.md              # Project documentation
 ```
 
-## 🌐 Live Demo ↗
-<a href="https://atenastravels.netlify.app/" target="_blank">
-  <strong>🌐 Atenas Travels - View Live Site →</strong>
-</a>
+## 🌐 Live Demo
+
+[🌐 **Atenas Travels**](https://atenastravels.netlify.app/) ↗️
+
+*Right-click → "Open in new tab" or use Ctrl+Click*
 
 ![Travel Landing Page Preview](assets/img/screenshot.png)
 
