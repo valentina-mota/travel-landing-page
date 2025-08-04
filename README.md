@@ -38,6 +38,8 @@ travel-landing-page/
 
 🔗 **[View Live Site](https://atenastravels.netlify.app/)**
 
+[🌐 Live Demo ↗](https://atenastravels.netlify.app/)
+
 ![Travel Landing Page Preview](assets/img/screenshot.png)
 
 ### Quick Start
