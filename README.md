@@ -79,6 +79,3 @@ Contributions are welcome! To contribute:
 3. Commit your changes (`git commit -m 'Add your feature description'`)
 4. Push to the branch (`git push origin feature/your-feature-name`)
 5. Open a Pull Request
----
-
-⭐ If this project was helpful to you, please give it a star on GitHub!
