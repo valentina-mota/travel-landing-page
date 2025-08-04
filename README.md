@@ -34,9 +34,11 @@ travel-landing-page/
 └── README.md              # Project documentation
 ```
 
-## 🎬 Preview
+## 🌐 Live Demo
 
-![Travel Landing Page](assets/img/screenshot.png)
+🔗 **[View Live Site](https://atenastravels.netlify.app/)**
+
+![Travel Landing Page Preview](assets/img/screenshot.png)
 
 ### Quick Start
 
