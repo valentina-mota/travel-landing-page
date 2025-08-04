@@ -36,7 +36,7 @@ travel-landing-page/
 
 ## 🎬 Preview
 
-![Travel Landing Page](video_preview.mp4)
+![Travel Landing Page](assets/img/screenshot.png)
 
 ### Quick Start
 
